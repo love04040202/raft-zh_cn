@@ -1,0 +1,5 @@
+Raft实现指南
+https://zhuanlan.zhihu.com/p/26506491
+
+Raft算法详解
+https://zhuanlan.zhihu.com/p/32052223
